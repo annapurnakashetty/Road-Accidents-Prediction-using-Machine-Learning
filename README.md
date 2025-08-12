@@ -1,4 +1,4 @@
-\# Road Accident Prediction Using Machine Learning
+\## Road Accident Prediction Using Machine Learning
 
 
 
@@ -115,6 +115,7 @@ Graphs showing accident causes and trends.
 📜 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
